@@ -1,0 +1,11 @@
+# zoomd.frac
+#
+# Enhance
+#
+# ENHANCE!!
+type: mandelbrot
+pixels: 2560
+centerx: -0.235125
+centery: -0.827215
+axislength: 0.00004
+iterations: 1500

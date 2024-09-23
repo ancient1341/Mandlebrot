@@ -1,0 +1,9 @@
+# wings.frac
+#
+# Instead of c*c this is c^c
+type: wings
+pixels: 512
+centerx: -0.6
+centery: -0.7
+axislength: 0.1
+iterations: 200

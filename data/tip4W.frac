@@ -1,0 +1,8 @@
+# tip4.frac
+type: Mandelbrot
+pixels: 1920
+centerX: -1.789435
+centerY: 0.0
+axisLength: 0.0009375
+Iterations: 100
+

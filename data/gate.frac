@@ -1,0 +1,9 @@
+# mandelbrot.frac
+#
+# Basic mandelbrot set, fully zoomed out
+type: wings
+pixels: 640
+centerx: 0.0006
+centery: 0.0
+axislength: 0.001
+iterations: 100
